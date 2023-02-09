@@ -2,6 +2,8 @@
 
 **English**|[Chinese](https://github.com/Grey-Wind/Tube/blob/main/README_CN.md)
 
+A horror game trying to outdo Ice Scream. (Grey Wind: I'd say with little success.)
+
 ## Update Log
 
 Project start: 2023.2.9
