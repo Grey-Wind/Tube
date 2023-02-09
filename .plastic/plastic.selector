@@ -1,0 +1,4 @@
+repository "Tube@wechat_os_qy0xlbrmhbgbrl92ncifn-iu4@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
