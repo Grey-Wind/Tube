@@ -12,7 +12,7 @@ Project start: 2023.2.9
 
 Core author: Grey Wind
 
-Sound author: Grandch
+Music & Sound Effect author: Grandch
 
 ## Contributors Message
 
