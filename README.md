@@ -8,6 +8,8 @@ A horror game trying to outdo Ice Scream. (Grey Wind: I'd say with little succes
 
 Project start: 2023.2.9
 
+Starter house preliminarily completed: 2023.2.9
+
 ## Contributors List
 
 Core author: Grey Wind
