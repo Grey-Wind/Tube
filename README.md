@@ -17,7 +17,7 @@ Sound author: Grandch
 Main author：
 
 ```
-“我们保留了一部分bug，这样才知道你玩的是两个学生做出来的游戏”
+“We kept a few bugs so you know you're playing a game made by two students”
 ```
 
 Audio author:
