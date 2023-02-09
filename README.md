@@ -22,7 +22,7 @@ Main author：
 “We kept a few bugs so you know you're playing a game made by two students”
 ```
 
-Audio author:
+Music & Sound Effect author:
 
 ```
 You have finished the game! But there are still plenty of mysteries waiting to be solved in the tube.
