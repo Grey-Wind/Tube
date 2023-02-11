@@ -16,7 +16,7 @@ Core author: Grey Wind
 
 Music & Sound Effect author: Grandch
 
-## Contributors Message
+<!-- ## Contributors Message
 
 Main author：
 
@@ -31,4 +31,4 @@ You have finished the game! But there are still plenty of mysteries waiting to b
 This is our first try to make a game, so perhaps there are countless deficiencies or bugs in it. But we will keep struggling for this!
 If you want to get the newest information of our games, you can subscribe us on Twitter, Bilibili, YouTube, Github.
 To be continued......
-```
+``` -->
