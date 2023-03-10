@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml</file>
+        <file>qml/entities</file>
+        <file>qml/pages</file>
+        <file>qml/helper</file>
+    </qresource>
+</RCC>
